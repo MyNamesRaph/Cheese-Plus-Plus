@@ -1,0 +1,16 @@
+[
+{
+  "modid": "cheeseplusplus",
+  "name": "Cheese ++",
+  "description": "Cheese Mod Please Ignore",
+  "version": "0.1",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["MyNamesRaph"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]

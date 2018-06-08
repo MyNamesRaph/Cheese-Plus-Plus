@@ -1,0 +1,6 @@
+{
+    "variants": {
+        "half=top": { "model": "cheeseplusplus:slab_cheese" },
+        "half=bottom": { "model": "cheeseplusplus:slab_cheese_top" }
+    }
+}

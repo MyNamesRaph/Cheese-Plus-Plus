@@ -1,0 +1,24 @@
+{
+    "type": "minecraft:crafting_shaped",
+   
+    "pattern":
+    [
+        "  C",
+        " C ",
+        "   "
+    ],
+   
+    "key":
+    {
+        "C":
+        {
+            "item": "cheeseplusplus:food_cheese"
+        }
+    },
+   
+    "result":
+    {
+        "item": "cheeseplusplus:raw_stick_cheese",
+        "count": 4
+    }
+}

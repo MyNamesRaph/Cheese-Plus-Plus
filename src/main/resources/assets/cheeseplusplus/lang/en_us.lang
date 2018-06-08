@@ -1,0 +1,21 @@
+//ITEMS
+item.food_cheese.name=Cheese
+item.raw_stick_cheese.name=Raw Cheese Stick
+item.cooked_stick_cheese.name=Cooked Cheese Stick
+item.curd_cheese.name=Cheese Curd
+
+
+//BLOCKS
+tile.block_cheese.name=Cheese Block
+
+
+//CREATIVE TABS
+itemGroup.tab_cheeseplusplus=Cheese ++
+
+
+//TOOLS
+item.sword_cheese.name=Cheese Sword
+item.pickaxe_cheese.name=Cheese Pickaxe
+item.axe_cheese.name=Cheese Axe
+item.shovel_cheese.name=Cheese Shovel
+item.hoe_cheese.name=Cheese Hoe
